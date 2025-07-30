@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gjghfd.github.io/sitemap.xml
