@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in the School of Computer Science at Peking University, co-advised by Prof. [Hong Mei](https://faculty.pku.edu.cn/meih/) and Prof. [Xin Jin](https://xinjin.github.io/).
+I am currently a second-year Ph.D. student in the School of Computer Science at Peking University, co-advised by Prof. [Hong Mei](https://faculty.pku.edu.cn/meih/) and Prof. [Xin Jin](https://xinjin.github.io/).
 
 I received my B.E. degree in computer science and technology from the University of Chinese Academy of Sciences in 2023.
 
