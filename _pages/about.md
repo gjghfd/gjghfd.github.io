@@ -29,6 +29,6 @@ latest_posts:
 
 I am a Ph.D. student in the School of Computer Science at Peking University, co-advised by Prof. [Hong Mei](https://faculty.pku.edu.cn/meih/) and Prof. [Xin Jin](https://xinjin.github.io/).
 
-I received my B.S. degree in computer science from the University of Chinese Academy of Sciences in 2023.
+I received my B.E. degree in computer science and technology from the University of Chinese Academy of Sciences in 2023.
 
 My research interests include machine learning systems, distributed systems, and serverless computing.
